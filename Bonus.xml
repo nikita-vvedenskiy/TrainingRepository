@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gameBonuses>
+	<bonus>
+		<name>Сочное яблоко</name>
+		<description>Восполняет энергию на небольшой промежуток времени.</description>
+		<duration>30</duration>
+		<type>Еда</type>
+	</bonus>
+	<bonus>
+		<name>Удобный блокнот</name>
+		<description>Повышает удобство введения заметок.</description>
+		<duration>120</duration>
+		<type>Инструмент</type>
+	</bonus>
+	<bonus>
+		<name>Праздничный день</name>
+		<description>Уменьшает продолжительность рабочего дня на 100%.</description>
+		<duration>0</duration>
+		<type>Событие</type>
+	</bonus>
+</gameBonuses>
