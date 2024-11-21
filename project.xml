@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<name>Main Project</name>
+	<description>Это удивительный проект, который меняет мир!</description>
+	<features>
+		<feature>Интуитивно понятный интерфейс</feature>
+		<feature>Мгновенные обновления</feature>
+	</features>
+</project>
