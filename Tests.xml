@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tests>
+	<test1>
+		<name>verify_log</name>
+		<description>Проверка лог файла.</description>
+		<setting>warnings</setting>
+	</test1>
+	<test2>
+		<name>verify_xml</name>
+		<description>Проверка xml файлов.</description>
+		<setting>low</setting>
+	</test2>
+	<test3>
+		<name>verify_url</name>
+		<description>Проверка url-ссылки.</description>
+		<setting>https://github.com/</setting>
+	</test3>
+</Tests>
